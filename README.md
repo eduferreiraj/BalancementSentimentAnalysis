@@ -1,4 +1,4 @@
-#PIBIC 2017
+<h1> PIBIC 2017 </h1>
 Evaluation of the impact of balancing techniques for Sentiment Analysis
 
 Advisor: Fabricio Enembreck
